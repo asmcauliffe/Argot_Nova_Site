@@ -2028,6 +2028,7 @@ input, select, textarea {
 
 		.imagefeature {
 			max-height: 200px;
+			max-width: 200px;
 			min-width: 50px !important;
 			border: 0;
 			padding: 2em;
