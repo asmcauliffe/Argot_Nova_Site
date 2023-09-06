@@ -2026,6 +2026,13 @@ input, select, textarea {
 			max-height: 250px;
 		}
 
+		.imagefeature {
+			max-height: 200px;
+			min-width: 50px !important;
+			border: 0;
+			padding: 2em;
+		}
+
 		.image.left {
 			float: left;
 			margin: 0 2em 1em 0;
